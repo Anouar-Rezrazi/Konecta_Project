@@ -191,4 +191,5 @@ JWT_SECRET=your-production-jwt-secret
 
 ---
 
-Built with ❤️ using Next.js and modern web technologies.
+Built with ❤️ 
+By Anouar.
