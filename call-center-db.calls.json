@@ -1,0 +1,1116 @@
+[{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99ec"
+  },
+  "phoneNumber": "+212 540-95-19-09",
+  "date": {
+    "$date": "2025-08-15T03:43:14.800Z"
+  },
+  "duration": 586,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "abandoned",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99ed"
+  },
+  "phoneNumber": "+212 582-96-45-40",
+  "date": {
+    "$date": "2025-08-31T03:43:14.800Z"
+  },
+  "duration": 1263,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "abandoned",
+  "reason": "Billing inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99ee"
+  },
+  "phoneNumber": "+212 633-32-92-77",
+  "date": {
+    "$date": "2025-08-27T03:43:14.800Z"
+  },
+  "duration": 225,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Billing inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99ef"
+  },
+  "phoneNumber": "+212 643-44-07-64",
+  "date": {
+    "$date": "2025-08-29T03:43:14.800Z"
+  },
+  "duration": 832,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Service activation",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f0"
+  },
+  "phoneNumber": "+212 539-48-44-81",
+  "date": {
+    "$date": "2025-08-09T03:43:14.800Z"
+  },
+  "duration": 249,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "missed",
+  "reason": "Follow-up",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f1"
+  },
+  "phoneNumber": "+212 564-37-62-94",
+  "date": {
+    "$date": "2025-08-15T03:43:14.800Z"
+  },
+  "duration": 1332,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Product information",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f2"
+  },
+  "phoneNumber": "+212 607-30-93-99",
+  "date": {
+    "$date": "2025-08-15T03:43:14.800Z"
+  },
+  "duration": 1289,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "missed",
+  "reason": "Billing inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f3"
+  },
+  "phoneNumber": "+212 758-45-82-29",
+  "date": {
+    "$date": "2025-08-16T03:43:14.800Z"
+  },
+  "duration": 219,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Sales call",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f4"
+  },
+  "phoneNumber": "+212 730-06-11-04",
+  "date": {
+    "$date": "2025-08-29T03:43:14.800Z"
+  },
+  "duration": 928,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "missed",
+  "reason": "Billing inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f5"
+  },
+  "phoneNumber": "+212 633-22-20-25",
+  "date": {
+    "$date": "2025-08-31T03:43:14.800Z"
+  },
+  "duration": 1777,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "missed",
+  "reason": "Product information",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f6"
+  },
+  "phoneNumber": "+212 542-01-30-54",
+  "date": {
+    "$date": "2025-08-09T03:43:14.800Z"
+  },
+  "duration": 104,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "busy",
+  "reason": "Technical support",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f7"
+  },
+  "phoneNumber": "+212 668-22-29-31",
+  "date": {
+    "$date": "2025-08-06T03:43:14.800Z"
+  },
+  "duration": 170,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "abandoned",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f8"
+  },
+  "phoneNumber": "+212 506-13-77-17",
+  "date": {
+    "$date": "2025-08-06T03:43:14.800Z"
+  },
+  "duration": 278,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "missed",
+  "reason": "Customer inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99f9"
+  },
+  "phoneNumber": "+212 682-99-15-34",
+  "date": {
+    "$date": "2025-08-17T03:43:14.800Z"
+  },
+  "duration": 1252,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "abandoned",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99fa"
+  },
+  "phoneNumber": "+212 616-98-91-65",
+  "date": {
+    "$date": "2025-08-24T03:43:14.800Z"
+  },
+  "duration": 1384,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Complaint resolution",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99fb"
+  },
+  "phoneNumber": "+212 731-64-74-50",
+  "date": {
+    "$date": "2025-08-10T03:43:14.800Z"
+  },
+  "duration": 1155,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Customer inquiry",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99fc"
+  },
+  "phoneNumber": "+212 573-39-12-14",
+  "date": {
+    "$date": "2025-08-31T03:43:14.800Z"
+  },
+  "duration": 754,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "missed",
+  "reason": "Technical support",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99fd"
+  },
+  "phoneNumber": "+212 674-04-67-35",
+  "date": {
+    "$date": "2025-08-08T03:43:14.800Z"
+  },
+  "duration": 1610,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "missed",
+  "reason": "Billing inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99fe"
+  },
+  "phoneNumber": "+212 514-50-08-43",
+  "date": {
+    "$date": "2025-08-25T03:43:14.800Z"
+  },
+  "duration": 1661,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "missed",
+  "reason": "Technical support",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99ff"
+  },
+  "phoneNumber": "+212 747-75-55-09",
+  "date": {
+    "$date": "2025-08-19T03:43:14.800Z"
+  },
+  "duration": 277,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Billing inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a00"
+  },
+  "phoneNumber": "+212 656-34-60-63",
+  "date": {
+    "$date": "2025-08-05T03:43:14.800Z"
+  },
+  "duration": 111,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Product information",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a01"
+  },
+  "phoneNumber": "+212 648-87-14-33",
+  "date": {
+    "$date": "2025-08-24T03:43:14.800Z"
+  },
+  "duration": 1382,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a02"
+  },
+  "phoneNumber": "+212 508-68-25-22",
+  "date": {
+    "$date": "2025-08-19T03:43:14.800Z"
+  },
+  "duration": 219,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Follow-up",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a03"
+  },
+  "phoneNumber": "+212 738-43-65-61",
+  "date": {
+    "$date": "2025-08-15T03:43:14.800Z"
+  },
+  "duration": 172,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Technical support",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a04"
+  },
+  "phoneNumber": "+212 697-53-54-13",
+  "date": {
+    "$date": "2025-08-14T03:43:14.800Z"
+  },
+  "duration": 458,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Follow-up",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a05"
+  },
+  "phoneNumber": "+212 564-66-45-81",
+  "date": {
+    "$date": "2025-08-27T03:43:14.800Z"
+  },
+  "duration": 1662,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Follow-up",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a06"
+  },
+  "phoneNumber": "+212 615-49-19-38",
+  "date": {
+    "$date": "2025-08-13T03:43:14.800Z"
+  },
+  "duration": 102,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Complaint resolution",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a07"
+  },
+  "phoneNumber": "+212 526-83-52-71",
+  "date": {
+    "$date": "2025-08-29T03:43:14.800Z"
+  },
+  "duration": 257,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "abandoned",
+  "reason": "Product information",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a08"
+  },
+  "phoneNumber": "+212 518-95-13-53",
+  "date": {
+    "$date": "2025-08-27T03:43:14.800Z"
+  },
+  "duration": 201,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "abandoned",
+  "reason": "Product information",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a09"
+  },
+  "phoneNumber": "+212 673-95-82-97",
+  "date": {
+    "$date": "2025-08-26T03:43:14.800Z"
+  },
+  "duration": 1525,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Follow-up",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a0a"
+  },
+  "phoneNumber": "+212 662-37-01-05",
+  "date": {
+    "$date": "2025-08-17T03:43:14.800Z"
+  },
+  "duration": 1824,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "abandoned",
+  "reason": "Product information",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a0b"
+  },
+  "phoneNumber": "+212 651-77-04-50",
+  "date": {
+    "$date": "2025-08-16T03:43:14.800Z"
+  },
+  "duration": 707,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "abandoned",
+  "reason": "Complaint resolution",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a0c"
+  },
+  "phoneNumber": "+212 562-02-93-06",
+  "date": {
+    "$date": "2025-08-18T03:43:14.800Z"
+  },
+  "duration": 227,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "missed",
+  "reason": "Billing inquiry",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a0d"
+  },
+  "phoneNumber": "+212 786-09-10-58",
+  "date": {
+    "$date": "2025-08-07T03:43:14.800Z"
+  },
+  "duration": 1075,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "abandoned",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a0e"
+  },
+  "phoneNumber": "+212 564-00-65-57",
+  "date": {
+    "$date": "2025-08-24T03:43:14.800Z"
+  },
+  "duration": 598,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a0f"
+  },
+  "phoneNumber": "+212 643-31-09-65",
+  "date": {
+    "$date": "2025-08-22T03:43:14.800Z"
+  },
+  "duration": 1401,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Customer inquiry",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a10"
+  },
+  "phoneNumber": "+212 775-74-08-70",
+  "date": {
+    "$date": "2025-08-30T03:43:14.800Z"
+  },
+  "duration": 85,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Customer inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a11"
+  },
+  "phoneNumber": "+212 792-36-91-29",
+  "date": {
+    "$date": "2025-08-20T03:43:14.800Z"
+  },
+  "duration": 466,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Product information",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a12"
+  },
+  "phoneNumber": "+212 719-93-43-36",
+  "date": {
+    "$date": "2025-08-27T03:43:14.800Z"
+  },
+  "duration": 921,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "abandoned",
+  "reason": "Product information",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a13"
+  },
+  "phoneNumber": "+212 776-96-42-36",
+  "date": {
+    "$date": "2025-08-16T03:43:14.800Z"
+  },
+  "duration": 146,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "missed",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a14"
+  },
+  "phoneNumber": "+212 645-50-55-88",
+  "date": {
+    "$date": "2025-08-25T03:43:14.800Z"
+  },
+  "duration": 1618,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Product information",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a15"
+  },
+  "phoneNumber": "+212 721-14-42-15",
+  "date": {
+    "$date": "2025-08-26T03:43:14.800Z"
+  },
+  "duration": 1826,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "busy",
+  "reason": "Follow-up",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a16"
+  },
+  "phoneNumber": "+212 727-58-08-84",
+  "date": {
+    "$date": "2025-08-21T03:43:14.800Z"
+  },
+  "duration": 817,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "abandoned",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a17"
+  },
+  "phoneNumber": "+212 519-82-18-07",
+  "date": {
+    "$date": "2025-08-19T03:43:14.800Z"
+  },
+  "duration": 1594,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "busy",
+  "reason": "Technical support",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a18"
+  },
+  "phoneNumber": "+212 766-63-08-51",
+  "date": {
+    "$date": "2025-08-25T03:43:14.800Z"
+  },
+  "duration": 1815,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Sales call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a19"
+  },
+  "phoneNumber": "+212 615-17-03-38",
+  "date": {
+    "$date": "2025-08-25T03:43:14.800Z"
+  },
+  "duration": 1466,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "abandoned",
+  "reason": "Follow-up",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a1a"
+  },
+  "phoneNumber": "+212 519-64-18-04",
+  "date": {
+    "$date": "2025-08-07T03:43:14.800Z"
+  },
+  "duration": 1273,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "missed",
+  "reason": "Customer inquiry",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a1b"
+  },
+  "phoneNumber": "+212 792-53-23-13",
+  "date": {
+    "$date": "2025-08-16T03:43:14.800Z"
+  },
+  "duration": 421,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "status": "completed",
+  "reason": "Customer inquiry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a1c"
+  },
+  "phoneNumber": "+212 708-44-77-67",
+  "date": {
+    "$date": "2025-08-16T03:43:14.800Z"
+  },
+  "duration": 506,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Technical support",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de9a1d"
+  },
+  "phoneNumber": "+212 679-93-74-72",
+  "date": {
+    "$date": "2025-08-10T03:43:14.800Z"
+  },
+  "duration": 1542,
+  "agentId": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "status": "completed",
+  "reason": "Follow-up",
+  "notes": "Additional notes about the call",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.807Z"
+  }
+}]

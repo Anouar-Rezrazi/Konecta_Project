@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99e6"
+  },
+  "email": "supervisor@demo.com",
+  "password": "$2b$12$D5CdNRzW3D6wfrF7ijM4eOqm3ZUuZE7L/0E3YNWCE.cfLZazTOYVy",
+  "name": "Ahmed anouar",
+  "role": "supervisor",
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.196Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T04:08:32.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99e8"
+  },
+  "email": "agent@demo.com",
+  "password": "$2b$12$FIchFvr4HZrcftUDTDn1MOn4cL6nmP.sgJ0hmagNjK0Akyn0PKEoe",
+  "name": "Fatima El Alami",
+  "role": "agent",
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.510Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T04:32:44.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b3c4d27e0cdfdb67de99ea"
+  },
+  "email": "agent2@demo.com",
+  "password": "$2b$12$VloA144pDtvnT7UcEyTBTeAwjcqU6g4X6hySqC8ijxZkRmonf.fuO",
+  "name": "Youssef Tazi",
+  "role": "agent",
+  "createdAt": {
+    "$date": "2025-08-31T03:43:14.798Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T03:43:14.798Z"
+  },
+  "__v": 0
+}]
