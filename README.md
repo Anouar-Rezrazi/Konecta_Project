@@ -190,6 +190,3 @@ JWT_SECRET=your-production-jwt-secret
    - Check for TypeScript errors with `npm run build`
 
 ---
-
-Built with ❤️ 
-By Anouar.
